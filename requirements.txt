@@ -1,5 +1,5 @@
 # requirements.txt for the Server
-Flask==2.0.3
+Flask==2.2.5
 
 # requirements.txt for the Script
 pyautogui==0.9.53
