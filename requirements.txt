@@ -1,0 +1,8 @@
+# requirements.txt for the Server
+Flask==2.0.3
+
+# requirements.txt for the Script
+pyautogui==0.9.53
+mouse==0.7.1
+pynput==1.7.3
+requests==2.26.0
