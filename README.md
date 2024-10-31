@@ -23,8 +23,8 @@ Feel free to Email me your Presets!
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/LopeKinz/mouseflow_presets.git
-   cd mouseflow_presets
+   git clone https://github.com/LopeKinz/Pinkys_AntiRecoil.git
+   cd Pinkys_AntiRecoil
    ```
 
 2. **Install Dependencies**:
@@ -40,7 +40,7 @@ Feel free to Email me your Presets!
 
 4. **Start the Main Program**:
    ```bash
-   python recoil.py
+   python PinkysAntiRecoilv2.py
    ```
 
 ## Usage
