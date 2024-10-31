@@ -2,6 +2,10 @@
 
 Pinky's AntiRecoil V1 is a tool for automating mouse movements with a user-friendly GUI. It includes a licensing system for managing usage rights and a server-side component for verifying licenses.
 
+This is a Proof of Concept. This can be used for a Anti Recoil for games like Call of Duty Blackops 6 or any other FPS!
+This Project is powered by users, who programm and maintain the presets for mouse movements!
+Feel free to Email me your Presets!
+
 ## Features
 
 - **Mouse Automation**: Create custom presets to control mouse movements.
